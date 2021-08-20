@@ -8,7 +8,7 @@ we hope to make the diagnostic process easier
 by providing quick and accurate results.
 
 # Dataset used
-For training our models, we used the Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification hosted publicly under the Creative Commons Licenseat https://data.mendeley.com/datasets/rscbjbr9sj/2.
+For training our models, we used the Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification hosted publicly under the Creative Commons License at https://data.mendeley.com/datasets/rscbjbr9sj/2.
 
 ![image](https://user-images.githubusercontent.com/49980787/124458163-4bc03a80-ddaa-11eb-87d2-fb707783f444.png)
 
