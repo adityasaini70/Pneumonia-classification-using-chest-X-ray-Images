@@ -32,7 +32,8 @@ Please refer the notebooks at https://github.com/adityasaini70/Pneumonia-classif
 ![image](https://user-images.githubusercontent.com/49980787/124458584-c5582880-ddaa-11eb-8817-36dd5a9c6868.png)
 
 
-## Authors(Equal contribution by all)
-* Aditya Saini
-* Lavanya Verma
-* Prabhat Soni
+## Contributors
+(Equal contribution by all)
+* [Aditya Saini](https://github.com/adityasaini70)
+* [Lavanya Verma](https://github.com/broompa)
+* [Prabhat Soni](https://github.com/prabhatsoni99)
