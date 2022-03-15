@@ -10,10 +10,11 @@ by providing quick and accurate results.
 # Dataset
 For training our models, we used the Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification hosted publicly under the Creative Commons License at https://data.mendeley.com/datasets/rscbjbr9sj/2.
 
-![image](https://user-images.githubusercontent.com/49980787/124458163-4bc03a80-ddaa-11eb-87d2-fb707783f444.png)
+Dataset Examples           |  Dataset Distribution
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/49980787/124458163-4bc03a80-ddaa-11eb-87d2-fb707783f444.png" width="500" height="300"> | <img src="https://user-images.githubusercontent.com/49980787/124458390-888c3180-ddaa-11eb-8ac7-3ffca39f0022.png" width="500" height="300">
 
-### Dataset distribution
-![image](https://user-images.githubusercontent.com/49980787/124458390-888c3180-ddaa-11eb-8ac7-3ffca39f0022.png)
+
 
 # Evaluation metrics
 * Accuracy
